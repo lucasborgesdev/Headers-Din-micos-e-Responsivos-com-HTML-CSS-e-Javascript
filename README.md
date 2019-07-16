@@ -1,2 +1,3 @@
 # Headers Dinamicos e Responsivos com HTML CSS e Javascript
-Segue alguns exemplos de Headers
+
+Estou fazendo alguns cursos online em desenvolvimento web e estou colocando aqui como portfolio! 
